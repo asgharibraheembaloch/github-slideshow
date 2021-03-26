@@ -2,4 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-First File added using github learning lab
+
+this table descirbes layout and title for purposed posts in our site
